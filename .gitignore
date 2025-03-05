@@ -1,5 +1,4 @@
 *.pyc
-*.txt
 GWFish.egg-info/
 build/
 dist/
